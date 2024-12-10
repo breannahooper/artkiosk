@@ -8,6 +8,10 @@ body, html {
     background-color: rgb(255, 178, 228);
   }  
 
+  .center  {
+    text-align: center;
+  }
+
   .button-box {
     display: flex;
     height: 90px;
